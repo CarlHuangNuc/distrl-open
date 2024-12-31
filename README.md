@@ -137,3 +137,19 @@ Setup Steps:
 
 
 
+## 📄 License
+
+All content of this work is under [Apache License v2.0](https://github.com/DigiRL-agent/digirl/blob/master/LICENSE), including codebase, data, and model checkpoints.
+
+## 📚 Citation
+
+Consider citing our paper!
+
+```
+@article{wang2024distrl,
+  title={Distrl: An asynchronous distributed reinforcement learning framework for on-device control agents},
+  author={Wang, Taiyi and Wu, Zhihao and Liu, Jianheng and Hao, Jianye and Wang, Jun and Shao, Kun},
+  journal={arXiv preprint arXiv:2410.14803},
+  year={2024}
+}
+```
